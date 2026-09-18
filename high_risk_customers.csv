@@ -1,0 +1,362 @@
+customerID,tenure,MonthlyCharges,TotalCharges,Contract,InternetService,PaymentMethod,Churn_Probability,Risk_Category
+0871-URUWO,13,102.25,1359.0,Month-to-month,Fiber optic,Credit card (automatic),0.8583645594769914,High Risk
+9402-ORRAH,15,91.5,1400.3,Month-to-month,Fiber optic,Electronic check,0.8955584685038012,High Risk
+2038-OEQZH,4,86.05,308.1,Month-to-month,Fiber optic,Electronic check,0.8380138955603351,High Risk
+7993-PYKOF,8,75.0,632.95,Month-to-month,Fiber optic,Electronic check,0.7148997706069526,High Risk
+5482-VXSXJ,22,93.2,2157.3,Month-to-month,Fiber optic,Mailed check,0.769550466156538,High Risk
+9497-QCMMS,1,93.55,93.55,Month-to-month,Fiber optic,Electronic check,0.9360862969382,High Risk
+1902-XBTFB,22,89.4,2001.5,Month-to-month,Fiber optic,Electronic check,0.7351734061651033,High Risk
+1751-NCDLI,46,98.85,4564.9,Month-to-month,Fiber optic,Electronic check,0.8224062400638714,High Risk
+7394-LWLYN,2,70.15,123.8,Month-to-month,Fiber optic,Electronic check,0.8510164832476494,High Risk
+4229-CZMLL,6,74.9,469.8,Month-to-month,Fiber optic,Electronic check,0.8551822211990541,High Risk
+0488-GSLFR,1,69.5,69.5,Month-to-month,Fiber optic,Electronic check,0.8557072971443094,High Risk
+2823-LKABH,18,95.05,1679.4,Month-to-month,Fiber optic,Bank transfer (automatic),0.7349205113108768,High Risk
+9048-JVYVF,3,69.35,191.35,Month-to-month,DSL,Electronic check,0.7410902918563143,High Risk
+6358-LYNGM,1,74.9,74.9,Month-to-month,Fiber optic,Electronic check,0.8741514705993273,High Risk
+8270-RKSAP,9,70.5,597.9,Month-to-month,Fiber optic,Electronic check,0.812504440916226,High Risk
+6311-UEUME,29,78.9,2384.15,Month-to-month,Fiber optic,Electronic check,0.758555768539166,High Risk
+1062-LHZOD,1,69.9,69.9,Month-to-month,Fiber optic,Mailed check,0.7706675878312031,High Risk
+0432-CAJZV,3,90.7,237.65,Month-to-month,Fiber optic,Mailed check,0.8294026776991047,High Risk
+6651-AZVTJ,49,99.8,4872.45,Month-to-month,Fiber optic,Electronic check,0.7279611287982308,High Risk
+5348-CAGXB,12,89.55,1021.75,Month-to-month,Fiber optic,Electronic check,0.860016465155392,High Risk
+5275-SQEIZ,1,80.85,80.85,Month-to-month,Fiber optic,Mailed check,0.8379948531819522,High Risk
+2070-FNEXE,7,76.45,503.6,Month-to-month,Fiber optic,Bank transfer (automatic),0.7034975726516013,High Risk
+3727-RJMEO,6,82.85,460.25,Month-to-month,Fiber optic,Electronic check,0.887585652013585,High Risk
+3088-LHEFH,11,79.0,929.3,Month-to-month,Fiber optic,Bank transfer (automatic),0.7173082446967854,High Risk
+6352-TWCAU,35,86.45,3029.1,Month-to-month,Fiber optic,Electronic check,0.7674437266305766,High Risk
+9432-VOFYX,17,70.8,1207.0,Month-to-month,Fiber optic,Electronic check,0.7686673109149723,High Risk
+3045-XETSH,10,94.85,953.45,Month-to-month,Fiber optic,Electronic check,0.8612228982865459,High Risk
+8012-SOUDQ,43,90.25,3838.75,Month-to-month,Fiber optic,Electronic check,0.7528752942566309,High Risk
+1304-BCCFO,9,70.05,564.4,Month-to-month,DSL,Mailed check,0.7068560941441187,High Risk
+0324-BRPCJ,68,100.2,6851.65,Month-to-month,Fiber optic,Electronic check,0.7178205563502166,High Risk
+8436-BJUMM,26,83.75,2070.6,Month-to-month,Fiber optic,Electronic check,0.7688266906173052,High Risk
+7354-OIJLX,9,75.85,724.65,Month-to-month,Fiber optic,Electronic check,0.8439330963815523,High Risk
+9290-SHCMB,13,96.85,1235.55,Month-to-month,Fiber optic,Electronic check,0.8984796918305321,High Risk
+0221-WMXNQ,4,75.35,273.4,Month-to-month,Fiber optic,Electronic check,0.773465961173507,High Risk
+7228-OMTPN,4,88.45,370.65,Month-to-month,Fiber optic,Electronic check,0.8974931383002894,High Risk
+9185-TQCVP,14,85.15,1139.2,Month-to-month,Fiber optic,Electronic check,0.8628536096559886,High Risk
+4706-AXVKM,11,84.8,906.85,Month-to-month,Fiber optic,Credit card (automatic),0.8546020409129571,High Risk
+7130-VTEWQ,8,75.75,606.25,Month-to-month,Fiber optic,Electronic check,0.8788903034388065,High Risk
+8185-UPYBR,6,75.5,438.0,Month-to-month,Fiber optic,Electronic check,0.8612606399720846,High Risk
+4706-DGAHW,1,45.2,45.2,Month-to-month,DSL,Electronic check,0.7376582074510243,High Risk
+7511-YMXVQ,9,45.4,418.8,Month-to-month,DSL,Electronic check,0.8507219839091623,High Risk
+2344-JMOGN,9,94.85,890.6,Month-to-month,Fiber optic,Mailed check,0.7175463567752766,High Risk
+0125-LZQXK,15,101.35,1553.95,Month-to-month,Fiber optic,Electronic check,0.8159554102847654,High Risk
+4910-GMJOT,1,94.6,94.6,Month-to-month,Fiber optic,Electronic check,0.921755325033811,High Risk
+1845-CSBRZ,22,85.35,1961.6,Month-to-month,Fiber optic,Bank transfer (automatic),0.7578608660158527,High Risk
+9878-TNQGW,2,80.95,171.15,Month-to-month,Fiber optic,Electronic check,0.8794816018412119,High Risk
+6661-HBGWL,42,104.75,4323.45,Month-to-month,Fiber optic,Bank transfer (automatic),0.7763142272221675,High Risk
+6688-UZPWD,11,102.0,1145.35,Month-to-month,Fiber optic,Electronic check,0.8975999724692593,High Risk
+4367-NHWMM,1,24.9,24.9,Month-to-month,DSL,Mailed check,0.7733824347979386,High Risk
+2135-DQWAQ,5,85.3,420.45,Month-to-month,Fiber optic,Mailed check,0.8048965498341814,High Risk
+0612-RTZZA,1,25.25,25.25,Month-to-month,DSL,Electronic check,0.8333641868157389,High Risk
+7952-OBOYL,3,89.85,244.45,Month-to-month,Fiber optic,Mailed check,0.7567809119746073,High Risk
+1618-CFHME,2,75.9,143.35,Month-to-month,Fiber optic,Electronic check,0.8735234125925136,High Risk
+8837-VVWLQ,8,84.95,668.4,Month-to-month,Fiber optic,Electronic check,0.7582228537688875,High Risk
+1077-HUUJM,7,71.05,472.65,Month-to-month,Fiber optic,Electronic check,0.7926942173365383,High Risk
+3269-ATYWD,39,95.65,3759.05,Month-to-month,Fiber optic,Bank transfer (automatic),0.7972701321988821,High Risk
+7594-RQHXR,1,79.6,79.6,Month-to-month,Fiber optic,Electronic check,0.859157560710158,High Risk
+1173-NOEYG,27,90.15,2423.4,Month-to-month,Fiber optic,Bank transfer (automatic),0.7220882377314372,High Risk
+7503-QQRVF,16,74.3,1178.25,Month-to-month,Fiber optic,Credit card (automatic),0.740285032975428,High Risk
+8040-MNRTF,1,71.1,71.1,Month-to-month,Fiber optic,Mailed check,0.7638545330135753,High Risk
+6161-UUUTA,3,79.9,260.9,Month-to-month,Fiber optic,Electronic check,0.899677262913508,High Risk
+5480-TBGPH,24,99.3,2431.35,Month-to-month,Fiber optic,Credit card (automatic),0.7724649296268393,High Risk
+1024-GUALD,1,24.8,24.8,Month-to-month,DSL,Electronic check,0.839858393250594,High Risk
+7206-PQBBZ,11,70.2,834.7,Month-to-month,Fiber optic,Electronic check,0.8494477844526365,High Risk
+1363-TXLSL,1,70.3,70.3,Month-to-month,Fiber optic,Electronic check,0.8872750564186088,High Risk
+3027-ZTDHO,1,89.9,89.9,Month-to-month,Fiber optic,Electronic check,0.9054542606475496,High Risk
+4718-DHSMV,11,35.8,363.15,Month-to-month,DSL,Mailed check,0.7332361924531724,High Risk
+5016-IBERQ,23,84.25,1968.1,Month-to-month,Fiber optic,Electronic check,0.7181254055962794,High Risk
+8473-VUVJN,1,73.65,73.65,Month-to-month,Fiber optic,Electronic check,0.8985353893372952,High Risk
+8563-OYMQY,17,90.95,1612.2,Month-to-month,Fiber optic,Credit card (automatic),0.7400389152783816,High Risk
+0921-OHLVP,22,83.05,1799.3,Month-to-month,Fiber optic,Electronic check,0.7827930424355294,High Risk
+4795-KTRTH,5,81.0,371.65,Month-to-month,Fiber optic,Electronic check,0.8828646714190445,High Risk
+2034-CGRHZ,24,102.95,2496.7,Month-to-month,Fiber optic,Credit card (automatic),0.8295984314718557,High Risk
+6502-MJQAE,1,69.6,69.6,Month-to-month,Fiber optic,Electronic check,0.852520180677238,High Risk
+7901-HXJVA,14,76.45,1117.55,Month-to-month,Fiber optic,Electronic check,0.7452505605692936,High Risk
+3453-RTHJQ,6,69.1,435.0,Month-to-month,Fiber optic,Electronic check,0.8293518093556822,High Risk
+2189-WWOEW,15,85.9,1269.55,Month-to-month,Fiber optic,Bank transfer (automatic),0.7254137820129124,High Risk
+1320-REHCS,52,110.75,5832.0,Month-to-month,Fiber optic,Electronic check,0.7340309324845936,High Risk
+4817-VYYWS,30,100.2,2983.8,Month-to-month,Fiber optic,Electronic check,0.8311506880608615,High Risk
+2982-IHMFT,1,74.45,74.45,Month-to-month,Fiber optic,Mailed check,0.8626900434492434,High Risk
+1932-UEDCX,33,100.6,3270.25,Month-to-month,Fiber optic,Bank transfer (automatic),0.8172847040589079,High Risk
+8058-JMEQO,9,84.45,762.5,Month-to-month,Fiber optic,Electronic check,0.9021426540281524,High Risk
+6088-BXMRG,32,98.85,3089.6,Month-to-month,Fiber optic,Electronic check,0.7918834211415894,High Risk
+5119-KEPFY,36,95.0,3440.25,Month-to-month,Fiber optic,Bank transfer (automatic),0.7769359741632247,High Risk
+6892-EZDTG,4,91.65,365.4,Month-to-month,Fiber optic,Electronic check,0.8882901595596833,High Risk
+3677-TNKIO,14,71.0,914.0,Month-to-month,Fiber optic,Credit card (automatic),0.7161250009536888,High Risk
+5959-BELXA,32,96.15,3019.25,Month-to-month,Fiber optic,Credit card (automatic),0.8105137606235826,High Risk
+8990-ZXLSU,9,69.05,651.5,Month-to-month,Fiber optic,Electronic check,0.7795021495944507,High Risk
+5919-TMRGD,1,79.35,79.35,Month-to-month,Fiber optic,Electronic check,0.8579551934976188,High Risk
+0923-PNFUB,3,83.75,247.25,Month-to-month,Fiber optic,Electronic check,0.8325116530971237,High Risk
+8637-XJIVR,12,78.95,927.35,Month-to-month,Fiber optic,Electronic check,0.7628514020256062,High Risk
+5956-VKDTT,5,74.35,334.8,Month-to-month,Fiber optic,Electronic check,0.8928758661917552,High Risk
+0822-GAVAP,2,34.7,62.25,Month-to-month,DSL,Electronic check,0.8590198310873886,High Risk
+0378-NHQXU,17,88.25,1460.65,Month-to-month,Fiber optic,Electronic check,0.7817884961690434,High Risk
+3005-NFMTA,55,98.8,5617.75,Month-to-month,Fiber optic,Electronic check,0.7092014238081327,High Risk
+4704-ERYFC,22,69.25,1554.0,Month-to-month,Fiber optic,Electronic check,0.7504152320813682,High Risk
+3524-WQDSG,43,99.3,4209.95,Month-to-month,Fiber optic,Bank transfer (automatic),0.7005397617779867,High Risk
+0365-BZUWY,17,102.55,1742.5,Month-to-month,Fiber optic,Electronic check,0.874094446840395,High Risk
+3957-LXOLK,28,106.15,3152.5,Month-to-month,Fiber optic,Electronic check,0.8785988238429149,High Risk
+6413-XKKPU,17,89.4,1539.45,Month-to-month,Fiber optic,Electronic check,0.7127585442263119,High Risk
+4652-NNHNY,16,73.85,1284.2,Month-to-month,Fiber optic,Bank transfer (automatic),0.7715391373371512,High Risk
+2956-GGUCQ,24,78.85,1772.25,Month-to-month,Fiber optic,Electronic check,0.7361831648571665,High Risk
+6629-CZTTH,1,55.7,55.7,Month-to-month,DSL,Mailed check,0.7133157627996235,High Risk
+1374-DMZUI,4,94.3,424.45,Month-to-month,Fiber optic,Electronic check,0.9336926811447899,High Risk
+0231-LXVAP,1,75.9,75.9,Month-to-month,Fiber optic,Electronic check,0.7960912043586225,High Risk
+1579-KLYDT,7,90.45,593.45,Month-to-month,Fiber optic,Electronic check,0.8777237567590104,High Risk
+4183-MYFRB,21,90.05,1862.9,Month-to-month,Fiber optic,Electronic check,0.7859858533545518,High Risk
+5399-ZIMKF,5,74.65,383.65,Month-to-month,Fiber optic,Electronic check,0.8184116559953648,High Risk
+0723-DRCLG,1,74.45,74.45,Month-to-month,Fiber optic,Electronic check,0.9061844347423613,High Risk
+1768-ZAIFU,1,25.2,25.2,Month-to-month,DSL,Electronic check,0.8641042658067527,High Risk
+0508-OOLTO,2,71.65,135.75,Month-to-month,Fiber optic,Electronic check,0.8293895310621076,High Risk
+5899-MQZZL,13,75.0,999.45,Month-to-month,Fiber optic,Mailed check,0.7676504881591935,High Risk
+9947-OTFQU,15,74.4,1074.3,Month-to-month,Fiber optic,Electronic check,0.8017989708348379,High Risk
+3665-JATSN,19,39.7,710.05,Month-to-month,DSL,Electronic check,0.7153970287577766,High Risk
+5590-BYNII,22,100.75,2095.0,Month-to-month,Fiber optic,Electronic check,0.8083178312882748,High Risk
+4132-KALRO,4,100.85,399.25,Month-to-month,Fiber optic,Mailed check,0.8351599852049371,High Risk
+2369-UAPKZ,5,104.1,541.9,Month-to-month,Fiber optic,Mailed check,0.8298902051252472,High Risk
+9752-ZNQUT,1,48.6,48.6,Month-to-month,DSL,Electronic check,0.7166511839275459,High Risk
+3722-WPXTK,1,88.35,88.35,Month-to-month,Fiber optic,Electronic check,0.9048789349416401,High Risk
+4480-QQRHC,8,74.05,600.15,Month-to-month,Fiber optic,Bank transfer (automatic),0.8122796954696668,High Risk
+0139-IVFJG,2,90.35,190.5,Month-to-month,Fiber optic,Electronic check,0.7819177151391824,High Risk
+4929-XIHVW,2,95.5,181.65,Month-to-month,Fiber optic,Credit card (automatic),0.8932080519465421,High Risk
+7426-RHZGU,9,95.9,827.45,Month-to-month,Fiber optic,Bank transfer (automatic),0.7927799020820286,High Risk
+9167-APMXZ,22,84.15,1821.95,Month-to-month,Fiber optic,Bank transfer (automatic),0.7783490037016092,High Risk
+2074-GKOWZ,2,89.55,185.55,Month-to-month,Fiber optic,Bank transfer (automatic),0.8537985022704152,High Risk
+2506-TNFCO,1,69.55,69.55,Month-to-month,Fiber optic,Electronic check,0.8895322956884849,High Risk
+0329-GTIAJ,3,97.9,315.3,Month-to-month,Fiber optic,Electronic check,0.8474817237018497,High Risk
+7029-RPUAV,17,100.45,1622.45,Month-to-month,Fiber optic,Credit card (automatic),0.8695220426112457,High Risk
+7394-FKDNK,9,89.45,853.1,Month-to-month,Fiber optic,Electronic check,0.867778727737147,High Risk
+1436-ZMJAN,10,67.8,653.15,Month-to-month,DSL,Credit card (automatic),0.7022518259546751,High Risk
+8063-GBATB,27,85.25,2287.25,Month-to-month,Fiber optic,Electronic check,0.8418349283288374,High Risk
+4873-ILOLJ,24,90.35,2238.5,Month-to-month,Fiber optic,Electronic check,0.8343928229711639,High Risk
+2868-MZAGQ,1,79.25,79.25,Month-to-month,Fiber optic,Electronic check,0.881757276066837,High Risk
+5043-TRZWM,1,75.55,75.55,Month-to-month,Fiber optic,Electronic check,0.8195340755568864,High Risk
+5937-EORGB,15,96.5,1392.25,Month-to-month,Fiber optic,Electronic check,0.8379449423423649,High Risk
+4879-GZLFH,42,92.15,3875.4,Month-to-month,Fiber optic,Electronic check,0.712749610904561,High Risk
+8640-SDGKB,4,74.4,299.7,Month-to-month,DSL,Electronic check,0.7302404106326856,High Risk
+1769-GRUIK,18,71.1,1247.75,Month-to-month,Fiber optic,Electronic check,0.7656176596123991,High Risk
+4553-DVPZG,62,101.35,6164.7,Month-to-month,Fiber optic,Electronic check,0.7119656746332356,High Risk
+2905-KFQUV,2,70.4,154.8,Month-to-month,Fiber optic,Credit card (automatic),0.8066218249195745,High Risk
+4526-ZJJTM,25,88.4,2191.15,Month-to-month,Fiber optic,Bank transfer (automatic),0.7188180813114556,High Risk
+6215-NQCPY,15,99.7,1566.75,Month-to-month,Fiber optic,Electronic check,0.8415466669483619,High Risk
+2868-SNELZ,2,80.6,155.8,Month-to-month,Fiber optic,Mailed check,0.7840513800467137,High Risk
+2468-SJFLM,1,74.3,74.3,Month-to-month,Fiber optic,Mailed check,0.727586235188622,High Risk
+7321-PKUYW,11,90.15,987.95,Month-to-month,Fiber optic,Electronic check,0.7829439564732443,High Risk
+8290-YWKHZ,32,93.2,2931.0,Month-to-month,Fiber optic,Electronic check,0.8676089291949988,High Risk
+7526-BEZQB,12,96.05,1148.1,Month-to-month,Fiber optic,Electronic check,0.8953154749730071,High Risk
+5204-QZXPU,19,39.65,733.35,Month-to-month,DSL,Electronic check,0.7270953922211022,High Risk
+1641-RQDAY,32,100.4,3217.65,Month-to-month,Fiber optic,Electronic check,0.836226950923107,High Risk
+5222-IMUKT,32,91.05,2871.5,Month-to-month,Fiber optic,Electronic check,0.7540174782608978,High Risk
+2933-FILNV,2,24.4,36.55,Month-to-month,DSL,Mailed check,0.7312965094110141,High Risk
+5501-TVMGM,1,55.25,55.25,Month-to-month,DSL,Electronic check,0.7828425558532078,High Risk
+2754-SDJRD,8,100.15,908.55,Month-to-month,Fiber optic,Credit card (automatic),0.8567306434076908,High Risk
+7296-PIXQY,14,70.2,1046.5,Month-to-month,Fiber optic,Electronic check,0.717900889430514,High Risk
+5453-AXEPF,17,80.5,1336.9,Month-to-month,Fiber optic,Bank transfer (automatic),0.7435339521512273,High Risk
+0168-XZKBB,19,86.85,1564.4,Month-to-month,Fiber optic,Electronic check,0.8468680697292695,High Risk
+9492-TOKRI,18,90.0,1527.35,Month-to-month,Fiber optic,Credit card (automatic),0.7667169782464488,High Risk
+8708-XPXHZ,42,94.2,4186.3,Month-to-month,Fiber optic,Electronic check,0.7732190433081416,High Risk
+3744-ZRRDZ,21,82.35,1852.85,Month-to-month,Fiber optic,Electronic check,0.7758006276280225,High Risk
+5673-FSSMF,1,60.15,60.15,Month-to-month,DSL,Electronic check,0.8161172610411532,High Risk
+3223-DWFIO,4,69.35,261.65,Month-to-month,Fiber optic,Electronic check,0.8389106288535565,High Risk
+6637-KYRCV,5,30.5,167.2,Month-to-month,DSL,Electronic check,0.7557348597772238,High Risk
+5318-IXUZF,2,87.15,183.75,Month-to-month,Fiber optic,Bank transfer (automatic),0.8320016125571468,High Risk
+3776-EKTKM,1,36.45,36.45,Month-to-month,DSL,Electronic check,0.8911532673178104,High Risk
+4547-LYTDD,16,72.65,1194.3,Month-to-month,Fiber optic,Electronic check,0.7698724533048236,High Risk
+3473-XIIIT,16,100.0,1534.75,Month-to-month,Fiber optic,Electronic check,0.8806679648791366,High Risk
+3990-QYKBE,37,92.5,3473.4,Month-to-month,Fiber optic,Electronic check,0.8499781673009574,High Risk
+7206-GZCDC,1,69.25,69.25,Month-to-month,Fiber optic,Electronic check,0.8836327033921504,High Risk
+6015-VVHHE,5,83.15,446.05,Month-to-month,Fiber optic,Credit card (automatic),0.8759435113238032,High Risk
+7279-BUYWN,41,113.2,4689.5,Month-to-month,Fiber optic,Electronic check,0.784713678406614,High Risk
+1122-JWTJW,1,70.65,70.65,Month-to-month,Fiber optic,Mailed check,0.7712402596355342,High Risk
+0388-EOPEX,2,74.4,139.4,Month-to-month,Fiber optic,Electronic check,0.797701030244335,High Risk
+4816-LXZYW,23,79.15,1676.95,Month-to-month,Fiber optic,Electronic check,0.7476955659254773,High Risk
+6326-MTTXK,8,100.85,819.55,Month-to-month,Fiber optic,Electronic check,0.8712872160234945,High Risk
+3707-GNWHM,1,74.25,74.25,Month-to-month,Fiber optic,Mailed check,0.8267335662584736,High Risk
+1602-IJQQE,4,75.35,338.1,Month-to-month,Fiber optic,Electronic check,0.8370375127852038,High Risk
+2722-JMONI,1,49.55,49.55,Month-to-month,DSL,Electronic check,0.7163686869258904,High Risk
+3068-OMWZA,1,88.8,88.8,Month-to-month,Fiber optic,Electronic check,0.9166747094152019,High Risk
+9283-LZQOH,13,74.4,896.75,Month-to-month,Fiber optic,Credit card (automatic),0.7219709895070202,High Risk
+8878-HMWBV,3,49.15,169.05,Month-to-month,DSL,Electronic check,0.7137353378218784,High Risk
+6960-HVYXR,1,76.0,76.0,Month-to-month,Fiber optic,Electronic check,0.8492308032364665,High Risk
+9885-CSMWE,1,78.45,78.45,Month-to-month,Fiber optic,Electronic check,0.8839966392702675,High Risk
+6496-SLWHQ,3,105.0,294.45,Month-to-month,Fiber optic,Electronic check,0.9232316000773957,High Risk
+2931-FSOHN,13,59.9,788.35,Month-to-month,DSL,Electronic check,0.7202604992678563,High Risk
+7825-ECJRF,19,106.6,1934.45,Month-to-month,Fiber optic,Electronic check,0.7264110854500847,High Risk
+3518-PZXZQ,1,55.3,55.3,Month-to-month,DSL,Mailed check,0.7279783780622789,High Risk
+4662-EKDPQ,2,62.05,118.3,Month-to-month,DSL,Bank transfer (automatic),0.7104741137344412,High Risk
+6298-QDFNH,22,79.35,1730.35,Month-to-month,Fiber optic,Electronic check,0.7566776602565948,High Risk
+7586-ZATGZ,40,84.9,3369.05,Month-to-month,Fiber optic,Electronic check,0.7275785479361714,High Risk
+8931-GJJIQ,9,83.3,803.3,Month-to-month,Fiber optic,Electronic check,0.8787849182662202,High Risk
+0018-NYROU,5,68.95,351.5,Month-to-month,Fiber optic,Electronic check,0.8448680753036256,High Risk
+1271-SJBGZ,12,43.65,526.95,Month-to-month,DSL,Electronic check,0.7627456095514802,High Risk
+8821-XNHVZ,1,80.05,80.05,Month-to-month,Fiber optic,Mailed check,0.815493630371424,High Risk
+2832-KJCRD,38,103.65,3988.5,Month-to-month,Fiber optic,Electronic check,0.7557504026662576,High Risk
+9494-MRNYX,10,75.05,786.3,Month-to-month,Fiber optic,Electronic check,0.8031957999137611,High Risk
+6704-UTUKK,29,45.9,1332.4,Month-to-month,DSL,Electronic check,0.7199866033703977,High Risk
+8490-BXHEO,18,80.55,1411.65,Month-to-month,Fiber optic,Credit card (automatic),0.7566317815935366,High Risk
+9866-QEVEE,19,86.0,1532.45,Month-to-month,Fiber optic,Bank transfer (automatic),0.7904197668631913,High Risk
+7748-UMTRK,30,101.3,2974.5,Month-to-month,Fiber optic,Electronic check,0.7915417893043645,High Risk
+9685-WKZGT,14,74.95,1036.75,Month-to-month,Fiber optic,Electronic check,0.8512607143856985,High Risk
+9692-TUSXH,18,96.05,1740.7,Month-to-month,Fiber optic,Electronic check,0.8027400595901647,High Risk
+4951-UKAAQ,4,88.95,355.2,Month-to-month,Fiber optic,Electronic check,0.8819299318395196,High Risk
+2545-EBUPK,2,84.05,186.05,Month-to-month,Fiber optic,Electronic check,0.9198000008674674,High Risk
+2482-CZGBB,10,70.0,740.0,Month-to-month,Fiber optic,Electronic check,0.8102150689092688,High Risk
+3995-WFCSM,2,60.85,111.4,Month-to-month,DSL,Electronic check,0.7307096802606389,High Risk
+1415-YFWLT,1,89.3,89.3,Month-to-month,Fiber optic,Electronic check,0.9262905146320594,High Risk
+5931-FLJJF,7,70.1,467.55,Month-to-month,Fiber optic,Mailed check,0.8132384569460414,High Risk
+2034-GDRCN,2,90.4,168.2,Month-to-month,Fiber optic,Electronic check,0.9050546877719141,High Risk
+1522-VVDMG,7,89.75,608.8,Month-to-month,Fiber optic,Electronic check,0.756852533257902,High Risk
+5561-NWEVX,2,79.2,172.85,Month-to-month,Fiber optic,Electronic check,0.8773389989268189,High Risk
+0328-GRPMV,1,70.1,70.1,Month-to-month,Fiber optic,Electronic check,0.8560273439069416,High Risk
+6457-GIRWB,1,69.35,69.35,Month-to-month,Fiber optic,Electronic check,0.852384212836201,High Risk
+2514-GINMM,1,79.5,79.5,Month-to-month,Fiber optic,Electronic check,0.8809479949677418,High Risk
+9743-DQKQW,3,25.1,79.8,Month-to-month,DSL,Electronic check,0.7751897416333721,High Risk
+2203-GHNWN,24,79.65,1928.7,Month-to-month,Fiber optic,Mailed check,0.7068251922363299,High Risk
+6599-SFQVE,6,55.0,340.4,Month-to-month,DSL,Electronic check,0.7523239822569302,High Risk
+2720-WGKHP,2,94.0,181.7,Month-to-month,Fiber optic,Electronic check,0.9344012117016871,High Risk
+4317-VTEOA,1,50.75,50.75,Month-to-month,DSL,Electronic check,0.7132448257842023,High Risk
+7625-XCQRH,11,76.5,837.95,Month-to-month,Fiber optic,Electronic check,0.8372171063099163,High Risk
+3644-QXEHN,13,97.0,1334.45,Month-to-month,Fiber optic,Electronic check,0.8214147020350546,High Risk
+2697-NQBPF,34,105.35,3540.65,Month-to-month,Fiber optic,Electronic check,0.7527605716485565,High Risk
+6437-UKHMV,7,79.7,586.05,Month-to-month,Fiber optic,Electronic check,0.8633680784765886,High Risk
+0447-RXSGD,24,99.65,2404.85,Month-to-month,Fiber optic,Bank transfer (automatic),0.8073654369708527,High Risk
+6652-YFFJO,11,64.9,716.1,Month-to-month,DSL,Electronic check,0.7661403358984054,High Risk
+7851-WZEKY,2,95.15,196.9,Month-to-month,Fiber optic,Electronic check,0.9200767659714797,High Risk
+9134-CEQMF,7,89.5,676.7,Month-to-month,Fiber optic,Electronic check,0.9170961121608692,High Risk
+8059-UDZFY,33,105.35,3465.05,Month-to-month,Fiber optic,Bank transfer (automatic),0.7798694965771568,High Risk
+0650-BWOZN,18,73.55,1359.45,Month-to-month,Fiber optic,Electronic check,0.7921080882379832,High Risk
+7668-XCFYV,17,92.55,1614.7,Month-to-month,Fiber optic,Electronic check,0.9108200727839725,High Risk
+7718-RXDGG,15,68.6,1108.6,Month-to-month,Fiber optic,Bank transfer (automatic),0.7384224369952923,High Risk
+3167-SNQPL,38,101.15,3741.85,Month-to-month,Fiber optic,Electronic check,0.7663495086216893,High Risk
+4581-LNWUM,13,49.15,649.4,Month-to-month,DSL,Electronic check,0.7911780252581456,High Risk
+6961-VCPMC,46,80.4,3605.2,Month-to-month,Fiber optic,Electronic check,0.7005116605191477,High Risk
+3754-DXMRT,2,44.15,92.65,Month-to-month,DSL,Electronic check,0.7734266402666663,High Risk
+1583-IHQZE,12,112.95,1384.75,Month-to-month,Fiber optic,Mailed check,0.7864117645822142,High Risk
+4702-IOQDC,1,70.1,70.1,Month-to-month,Fiber optic,Electronic check,0.8560273439069416,High Risk
+5122-CYFXA,3,75.3,244.1,Month-to-month,DSL,Electronic check,0.7269381448987363,High Risk
+6581-NQCBA,16,49.95,810.2,Month-to-month,DSL,Electronic check,0.7586035711545319,High Risk
+5935-FCCNB,17,94.2,1608.15,Month-to-month,Fiber optic,Electronic check,0.9064384174144717,High Risk
+9094-AZPHK,15,100.15,1415.0,Month-to-month,Fiber optic,Electronic check,0.8767328971431,High Risk
+6857-VWJDT,1,95.65,95.65,Month-to-month,Fiber optic,Mailed check,0.865052651766703,High Risk
+7634-WSWDB,8,38.5,330.8,Month-to-month,DSL,Electronic check,0.7080361695461223,High Risk
+8705-WZCYL,1,44.8,44.8,Month-to-month,DSL,Electronic check,0.7357856049616236,High Risk
+0428-IKYCP,22,87.0,1850.65,Month-to-month,Fiber optic,Bank transfer (automatic),0.7491944252194039,High Risk
+3955-JBZZM,20,78.8,1641.3,Month-to-month,Fiber optic,Electronic check,0.7613881309670973,High Risk
+2424-WVHPL,1,74.7,74.7,Month-to-month,Fiber optic,Electronic check,0.7965349717246334,High Risk
+2840-XANRC,24,93.15,2231.05,Month-to-month,Fiber optic,Electronic check,0.8674969405293209,High Risk
+1867-BDVFH,11,74.35,834.2,Month-to-month,Fiber optic,Electronic check,0.8070348196041623,High Risk
+3254-YRILK,19,88.2,1775.8,Month-to-month,Fiber optic,Electronic check,0.859024287244889,High Risk
+0376-YMCJC,23,90.6,1943.2,Month-to-month,Fiber optic,Electronic check,0.752459182252984,High Risk
+2058-DCJBE,5,69.75,324.6,Month-to-month,Fiber optic,Electronic check,0.8329112841165631,High Risk
+9787-XVQIU,1,75.3,75.3,Month-to-month,Fiber optic,Electronic check,0.8743416253577448,High Risk
+8375-DKEBR,1,69.6,69.6,Month-to-month,Fiber optic,Electronic check,0.8837882326308982,High Risk
+0637-KVDLV,2,76.5,162.45,Month-to-month,Fiber optic,Electronic check,0.8715553182373578,High Risk
+8630-FJLIB,18,69.8,1221.65,Month-to-month,Fiber optic,Electronic check,0.7632244886356541,High Risk
+9314-IJWSQ,14,84.8,1203.9,Month-to-month,Fiber optic,Electronic check,0.838430431555811,High Risk
+6518-LGAOV,38,105.0,4026.4,Month-to-month,Fiber optic,Electronic check,0.769243538033081,High Risk
+3234-VKACU,2,70.3,132.4,Month-to-month,DSL,Electronic check,0.7013544814087647,High Risk
+4373-MAVJG,14,90.9,1259.0,Month-to-month,Fiber optic,Bank transfer (automatic),0.7795960795788917,High Risk
+9957-YODKZ,6,80.8,457.1,Month-to-month,Fiber optic,Electronic check,0.8858042249859553,High Risk
+7460-ITWWP,45,86.1,3861.45,Month-to-month,Fiber optic,Electronic check,0.72751729938093,High Risk
+8066-POXGX,13,35.1,446.1,Month-to-month,DSL,Electronic check,0.7861206713455337,High Risk
+7892-POOKP,28,104.8,3046.05,Month-to-month,Fiber optic,Electronic check,0.8129047772645062,High Risk
+9129-UXERG,18,103.6,1806.35,Month-to-month,Fiber optic,Credit card (automatic),0.7977449153053222,High Risk
+6230-BSUXY,1,85.0,85.0,Month-to-month,Fiber optic,Electronic check,0.9051367023900081,High Risk
+9093-FPDLG,11,94.2,999.9,Month-to-month,Fiber optic,Electronic check,0.7685054474653576,High Risk
+9809-IMGCQ,22,96.7,2082.95,Month-to-month,Fiber optic,Electronic check,0.8925731060244574,High Risk
+8739-XNIKG,5,84.0,424.75,Month-to-month,Fiber optic,Electronic check,0.889482677810634,High Risk
+7240-FQLHE,18,99.75,1836.25,Month-to-month,Fiber optic,Bank transfer (automatic),0.8036436241917789,High Risk
+8086-OVPWV,2,80.2,181.1,Month-to-month,Fiber optic,Electronic check,0.8794885320868097,High Risk
+5995-SNNEW,23,104.45,2184.85,Month-to-month,Fiber optic,Electronic check,0.8796392577333041,High Risk
+3384-CTMSF,47,104.1,5135.15,Month-to-month,Fiber optic,Electronic check,0.7835119125761808,High Risk
+4128-ETESU,47,99.7,4747.2,Month-to-month,Fiber optic,Electronic check,0.7893941640918436,High Risk
+4029-HPFVY,3,70.3,220.4,Month-to-month,Fiber optic,Mailed check,0.7887580648297015,High Risk
+5960-WPXQM,1,79.05,79.05,Month-to-month,Fiber optic,Electronic check,0.8807437671745398,High Risk
+5052-PNLOS,3,105.35,323.25,Month-to-month,Fiber optic,Bank transfer (automatic),0.8759029497220387,High Risk
+7802-EFKNY,5,24.95,100.4,Month-to-month,DSL,Electronic check,0.8065254765302892,High Risk
+8835-VSDSE,2,70.7,141.45,Month-to-month,Fiber optic,Electronic check,0.8590772316789728,High Risk
+5543-QDCRY,4,56.4,234.85,Month-to-month,DSL,Electronic check,0.7618727889117589,High Risk
+0148-DCDOS,25,94.7,2362.1,Month-to-month,Fiber optic,Bank transfer (automatic),0.8148310037979064,High Risk
+1389-CXMLU,3,91.05,289.1,Month-to-month,Fiber optic,Electronic check,0.892336186026592,High Risk
+9050-IKDZA,2,81.5,162.55,Month-to-month,Fiber optic,Mailed check,0.8374646202335151,High Risk
+3884-HCSWG,17,70.0,1144.5,Month-to-month,Fiber optic,Electronic check,0.7692845508088475,High Risk
+6158-HDPXZ,1,25.35,25.35,Month-to-month,DSL,Mailed check,0.7237385777776211,High Risk
+6689-TCZHQ,5,78.95,378.4,Month-to-month,Fiber optic,Electronic check,0.870665379699457,High Risk
+5150-ITWWB,3,94.85,335.75,Month-to-month,Fiber optic,Electronic check,0.9340421541778257,High Risk
+1262-OPMFY,9,75.75,655.9,Month-to-month,Fiber optic,Bank transfer (automatic),0.7757668873641749,High Risk
+2860-RANUS,20,85.8,1727.5,Month-to-month,Fiber optic,Credit card (automatic),0.8200860155489603,High Risk
+7861-UVUFT,15,84.3,1308.4,Month-to-month,Fiber optic,Electronic check,0.8368483156147905,High Risk
+5605-IYGFG,7,69.85,515.45,Month-to-month,Fiber optic,Bank transfer (automatic),0.7829822362037723,High Risk
+7571-YXDAD,2,74.9,147.15,Month-to-month,Fiber optic,Credit card (automatic),0.7869961623807855,High Risk
+7218-HKQFK,2,94.2,167.5,Month-to-month,Fiber optic,Electronic check,0.8677721036385518,High Risk
+1100-DDVRV,17,49.8,836.35,Month-to-month,DSL,Mailed check,0.7266927167820387,High Risk
+6416-TVAIH,1,68.5,68.5,Month-to-month,Fiber optic,Electronic check,0.8290264072132686,High Risk
+5445-UTODQ,7,81.1,576.65,Month-to-month,Fiber optic,Electronic check,0.8703041085829282,High Risk
+0122-OAHPZ,7,73.85,511.25,Month-to-month,Fiber optic,Electronic check,0.8524015742067257,High Risk
+4919-MOAVT,3,69.65,220.1,Month-to-month,Fiber optic,Electronic check,0.7718367856662662,High Risk
+7562-GSUHK,16,93.2,1573.7,Month-to-month,Fiber optic,Credit card (automatic),0.7551368199747185,High Risk
+1031-IIDEO,1,70.85,70.85,Month-to-month,Fiber optic,Electronic check,0.8564265717478421,High Risk
+6959-UWKHF,1,42.9,42.9,Month-to-month,DSL,Electronic check,0.7341853305373516,High Risk
+3966-HRMZA,3,75.05,202.9,Month-to-month,Fiber optic,Mailed check,0.7879081193916452,High Risk
+8337-UPOAQ,10,89.8,914.3,Month-to-month,Fiber optic,Electronic check,0.9012752265092244,High Risk
+2041-JIJCI,5,64.0,370.25,Month-to-month,DSL,Electronic check,0.7747515238409919,High Risk
+6350-XFYGW,4,94.75,422.4,Month-to-month,Fiber optic,Electronic check,0.9173267430971233,High Risk
+2519-FAKOD,38,99.25,3777.15,Month-to-month,Fiber optic,Bank transfer (automatic),0.7144079097155117,High Risk
+0334-GDDSO,3,81.35,233.7,Month-to-month,Fiber optic,Electronic check,0.8817358715763558,High Risk
+1335-NTIUC,9,24.95,190.25,Month-to-month,DSL,Electronic check,0.7632234985745703,High Risk
+5307-DZCVC,32,85.95,2628.6,Month-to-month,Fiber optic,Credit card (automatic),0.7617074468040986,High Risk
+0023-XUOPT,13,94.1,1215.6,Month-to-month,Fiber optic,Electronic check,0.823620206088465,High Risk
+2603-HVKCG,31,101.4,3143.65,Month-to-month,Fiber optic,Electronic check,0.794408676959716,High Risk
+8949-JTMAY,29,98.6,2933.2,Month-to-month,Fiber optic,Credit card (automatic),0.7912176468037369,High Risk
+9223-UCPVT,1,94.4,94.4,Month-to-month,Fiber optic,Electronic check,0.8820274896961774,High Risk
+9420-LOJKX,15,99.1,1426.4,Month-to-month,Fiber optic,Credit card (automatic),0.7247531578540305,High Risk
+3143-JQEGI,13,88.35,1222.8,Month-to-month,Fiber optic,Electronic check,0.8227967336685316,High Risk
+5908-QMGOE,15,74.2,1133.9,Month-to-month,Fiber optic,Credit card (automatic),0.7912208607055397,High Risk
+4910-AQFFX,9,79.35,661.25,Month-to-month,Fiber optic,Bank transfer (automatic),0.7619902643320423,High Risk
+4550-EVXNY,1,69.65,69.65,Month-to-month,Fiber optic,Electronic check,0.8252516596437682,High Risk
+0674-DGMAQ,32,93.5,2970.8,Month-to-month,Fiber optic,Electronic check,0.8133545268401015,High Risk
+4729-XKASR,1,24.75,24.75,Month-to-month,DSL,Electronic check,0.7511600085313765,High Risk
+9689-PTNPG,2,80.25,144.55,Month-to-month,Fiber optic,Electronic check,0.8773611567549515,High Risk
+8720-RQSBJ,1,44.0,44.0,Month-to-month,DSL,Electronic check,0.7366528227710446,High Risk
+2979-SXESE,17,94.4,1607.2,Month-to-month,Fiber optic,Electronic check,0.7101769199856729,High Risk
+7534-BFESC,24,76.1,1712.7,Month-to-month,Fiber optic,Electronic check,0.8004749515700796,High Risk
+8543-MSDMF,3,77.4,206.15,Month-to-month,DSL,Electronic check,0.7321728856455119,High Risk
+3934-HXCFZ,23,99.25,2186.4,Month-to-month,Fiber optic,Electronic check,0.7422141578729099,High Risk
+9895-VFOXH,1,24.4,24.4,Month-to-month,DSL,Mailed check,0.7280964521359107,High Risk
+0259-GBZSH,2,85.65,181.5,Month-to-month,Fiber optic,Electronic check,0.8967414634506432,High Risk
+3387-VATUS,5,94.85,462.8,Month-to-month,Fiber optic,Bank transfer (automatic),0.8841989022999283,High Risk
+7254-IQWOZ,1,69.65,69.65,Month-to-month,Fiber optic,Electronic check,0.852547361813389,High Risk
+6833-JMZYP,15,94.0,1505.45,Month-to-month,Fiber optic,Credit card (automatic),0.8187691790374407,High Risk
+9090-SGQXL,68,105.3,7299.65,Month-to-month,Fiber optic,Electronic check,0.7337969832596508,High Risk
+4817-QRJSX,10,81.0,818.05,Month-to-month,Fiber optic,Credit card (automatic),0.7659163820177659,High Risk
+7577-SWIFR,1,89.25,89.25,Month-to-month,Fiber optic,Electronic check,0.9052133754094026,High Risk
+7858-GTZSP,12,86.55,1066.9,Month-to-month,Fiber optic,Electronic check,0.8704409901066025,High Risk
+0404-SWRVG,3,74.4,229.55,Month-to-month,Fiber optic,Electronic check,0.866482483433848,High Risk
+0599-XNYDO,20,69.8,1540.35,Month-to-month,Fiber optic,Bank transfer (automatic),0.714567551449673,High Risk
+3797-FKOGQ,11,86.2,893.2,Month-to-month,Fiber optic,Electronic check,0.8040612811493175,High Risk
+0141-YEAYS,27,86.45,2401.05,Month-to-month,Fiber optic,Bank transfer (automatic),0.7335454785377359,High Risk
+1833-VGRUM,1,74.2,74.2,Month-to-month,Fiber optic,Electronic check,0.9010945292861956,High Risk
+3647-GMGDH,22,94.7,1914.9,Month-to-month,Fiber optic,Credit card (automatic),0.780845779719341,High Risk
+5134-IKDAY,1,69.8,69.8,Month-to-month,Fiber optic,Electronic check,0.8334635197174238,High Risk
+8784-CGILN,18,99.85,1776.95,Month-to-month,Fiber optic,Bank transfer (automatic),0.7901749508009853,High Risk
+7903-CMPEY,1,80.3,80.3,Month-to-month,Fiber optic,Electronic check,0.8602437305254688,High Risk
+7363-QTBIW,9,79.75,769.1,Month-to-month,Fiber optic,Electronic check,0.8644531954471787,High Risk
+6522-YRBXD,35,94.55,3365.4,Month-to-month,Fiber optic,Electronic check,0.7369793261859916,High Risk
+1918-ZBFQJ,13,79.25,1111.65,Month-to-month,Fiber optic,Electronic check,0.7802987267572836,High Risk
+8875-AKBYH,20,84.35,1745.2,Month-to-month,Fiber optic,Electronic check,0.8657756422354158,High Risk
+5022-KVDQT,27,81.3,2272.8,Month-to-month,Fiber optic,Electronic check,0.7524433380024202,High Risk
+6168-WFVVF,3,70.3,235.5,Month-to-month,Fiber optic,Electronic check,0.8775180989797581,High Risk
+6198-RTPMF,17,92.6,1579.7,Month-to-month,Fiber optic,Electronic check,0.861095647490273,High Risk
+0225-ZORZP,3,84.3,235.05,Month-to-month,Fiber optic,Electronic check,0.8298801623512914,High Risk
+2692-BUCFV,29,101.45,2948.6,Month-to-month,Fiber optic,Bank transfer (automatic),0.7955551431845741,High Risk
+0749-IRGQE,13,45.3,528.45,Month-to-month,DSL,Electronic check,0.837200920254511,High Risk
+4806-KEXQR,4,79.9,324.3,Month-to-month,Fiber optic,Electronic check,0.8717915421131249,High Risk
+9747-DDZOS,1,73.5,73.5,Month-to-month,Fiber optic,Bank transfer (automatic),0.7701945914547993,High Risk
+7326-RIGQZ,6,69.8,377.85,Month-to-month,Fiber optic,Electronic check,0.8014169316222539,High Risk
+2672-HUYVI,6,91.1,455.3,Month-to-month,Fiber optic,Electronic check,0.8927098259671687,High Risk
+6267-DCFFZ,30,90.05,2627.2,Month-to-month,Fiber optic,Electronic check,0.8228125340671415,High Risk
+5982-FPVQN,37,95.15,3532.85,Month-to-month,Fiber optic,Electronic check,0.7144835793471486,High Risk
+7767-UXAGJ,1,50.45,50.45,Month-to-month,DSL,Electronic check,0.7701857646825001,High Risk
+3338-CVVEH,12,94.55,1173.55,Month-to-month,Fiber optic,Electronic check,0.8707616632302626,High Risk

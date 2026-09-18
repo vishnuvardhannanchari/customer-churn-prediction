@@ -1,0 +1,1108 @@
+tenure,MonthlyCharges,TotalCharges,Contract,InternetService,PaymentMethod,Churn_Probability,Risk_Category,Retention_Recommendation
+2,70.7,151.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,99.65,820.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,95.5,181.65,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,69.7,316.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,97.85,1105.4,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,80.65,144.15,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,99.1,1426.4,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,80.65,633.3,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,94.4,857.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,79.85,887.35,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,79.35,79.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,75.15,496.9,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,99.3,918.75,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,74.7,74.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,78.95,927.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,89.85,248.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,100.25,1064.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,74.4,229.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,85.95,1215.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.45,70.45,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,95.0,655.5,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,80.9,1152.8,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,69.7,135.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,70.9,273.0,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,104.4,242.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,74.45,1145.7,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,76.45,503.6,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,105.35,1559.25,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,84.5,662.65,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,79.25,1111.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,91.0,531.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,80.05,1112.3,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,78.3,1033.95,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,79.9,79.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,80.0,624.6,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,70.15,268.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,84.6,84.6,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,95.0,1120.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,75.35,273.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,74.4,1074.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,70.4,147.15,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,106.9,1364.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,94.45,1511.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.6,70.6,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,85.4,401.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.0,70.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,74.5,606.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,89.35,567.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,73.6,73.6,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,95.45,396.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,90.4,356.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,69.35,341.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,80.6,415.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,82.9,880.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,70.35,139.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,82.65,1470.05,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,73.85,511.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,80.6,155.8,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,72.1,72.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,90.4,168.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,89.15,574.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,84.8,371.9,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,80.25,846.0,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,96.5,492.55,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,85.65,181.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,90.85,90.85,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,81.35,233.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,73.25,1195.75,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,75.3,75.3,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,69.85,515.45,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,85.95,858.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,112.95,1882.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.55,69.55,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,94.75,759.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,75.1,75.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,101.15,385.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,99.8,673.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,74.7,74.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,96.1,453.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,69.0,994.8,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,83.55,680.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,100.15,1415.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,74.35,74.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,74.4,139.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,99.7,1238.45,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,78.0,851.8,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,94.2,167.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,80.5,502.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,74.35,334.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,70.05,302.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,79.95,174.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,85.0,85.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,89.55,1021.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,86.05,834.1,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,70.2,760.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,70.5,597.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,75.3,75.3,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,89.2,346.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,85.7,85.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,74.55,1170.5,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,78.55,522.95,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,85.25,855.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,89.55,89.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,89.5,161.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,69.55,222.3,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,74.6,74.6,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,95.1,865.1,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,74.75,238.1,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,69.65,145.15,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,75.05,75.05,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,107.95,313.6,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,80.0,80.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,71.1,71.1,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,75.1,270.7,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,86.0,1164.05,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,85.95,381.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,80.85,356.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,80.45,137.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,98.55,1008.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,75.05,202.9,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,90.35,190.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,85.9,1269.55,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,70.3,208.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,93.35,1444.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,88.9,454.15,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,82.0,184.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,98.5,1058.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,85.35,489.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.55,69.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,86.2,178.7,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,89.45,1430.25,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,95.6,644.35,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,78.85,292.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,89.9,89.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,95.1,307.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,80.6,319.15,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,105.1,1582.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,110.1,1043.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,83.9,497.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,84.35,609.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,98.9,1120.95,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,98.3,923.5,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,93.85,1625.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,100.5,918.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,72.85,688.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,89.0,1288.3,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,73.55,73.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,75.4,1189.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,79.4,205.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,81.15,952.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,75.1,1212.85,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,84.6,360.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,83.25,308.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,79.05,434.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,74.4,215.8,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,75.6,535.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,100.3,832.35,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,96.0,174.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,90.55,90.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.9,69.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,75.25,888.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,86.6,86.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,94.3,424.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,95.35,660.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,69.55,284.9,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,68.95,119.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,95.9,827.45,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,84.7,392.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,100.6,819.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,88.3,273.75,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,92.1,729.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,90.45,1266.1,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,70.2,1046.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,80.0,412.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,84.7,832.05,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,89.55,185.55,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,69.75,144.55,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,98.05,713.0,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,69.55,200.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,80.95,171.15,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,74.3,940.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,89.7,1047.7,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,100.45,1622.45,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,74.75,1129.35,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,80.55,80.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,79.75,769.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,94.4,387.2,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,74.65,544.55,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,104.05,1133.65,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,75.2,775.3,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,95.15,196.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,96.65,1162.85,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,80.4,224.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,89.75,1052.4,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,80.0,1029.35,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,109.9,669.45,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,101.35,1553.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,85.7,256.75,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,90.45,593.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,78.9,1348.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,74.9,74.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,70.15,194.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,80.25,80.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,69.0,1149.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,69.55,521.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,80.3,250.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,75.9,143.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,76.95,228.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,96.15,1529.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,90.15,987.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,75.8,75.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,79.3,523.15,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,80.15,194.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,80.25,303.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,89.5,676.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,75.0,632.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,75.6,402.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,85.6,1345.55,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,86.6,1281.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.25,69.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,75.35,1114.55,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,87.25,1258.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,79.95,857.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,75.2,633.85,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,70.15,735.5,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,94.75,889.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,95.05,1290.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,78.45,330.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,70.2,237.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,85.6,813.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,79.2,79.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,70.7,129.2,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,82.85,319.6,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,99.8,442.85,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,76.0,76.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,93.85,170.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,84.3,1308.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,84.4,732.5,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,101.1,1504.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,99.95,1132.75,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,91.4,193.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,75.55,349.65,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,80.8,332.45,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,100.0,1534.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,85.3,424.15,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,70.4,281.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,74.6,74.6,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,74.4,896.75,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,96.85,1235.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,79.5,795.65,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,75.65,1146.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,74.7,74.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,76.65,1313.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,84.8,1203.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,92.6,1579.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,95.4,293.15,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,90.0,190.05,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,75.35,1025.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,100.85,819.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,69.95,330.15,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,80.8,457.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,91.7,91.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,95.6,1555.65,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,74.95,74.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,69.35,261.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,95.35,898.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,111.4,1183.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,80.45,950.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,74.7,165.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,70.35,120.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,88.8,88.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,89.05,1169.35,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,75.75,655.9,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,75.9,866.4,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,85.35,1463.45,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,79.5,868.5,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,85.8,85.8,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,79.1,79.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,69.75,324.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,76.85,663.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,74.6,548.9,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,80.15,319.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,85.3,264.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,99.75,99.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,73.85,196.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,82.75,417.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,107.95,318.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,83.8,163.7,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,74.25,639.65,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,94.9,273.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,94.2,1608.15,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.6,69.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,87.15,183.75,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,84.75,264.85,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,89.95,1178.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,90.5,1201.15,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,79.0,143.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,91.15,168.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,71.65,71.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,78.1,947.3,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,98.7,973.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,76.35,76.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,74.85,572.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,83.75,247.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.05,70.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,86.0,165.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,72.65,1194.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,78.95,378.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,90.95,1612.2,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,92.0,266.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,81.05,81.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,79.1,246.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,80.75,159.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,75.35,75.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,75.45,75.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,70.7,553.4,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,81.1,576.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,74.95,825.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,93.55,93.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,95.25,1021.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,90.9,1259.0,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,84.75,1350.15,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,83.55,1329.15,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.95,69.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,75.5,637.4,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,80.2,181.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,87.1,341.45,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,75.9,357.75,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,86.45,830.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,86.25,1340.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,81.0,371.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,88.15,1390.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,74.3,74.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.6,70.6,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,69.65,1043.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,95.6,95.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,71.35,71.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.75,69.75,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,80.85,1400.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,79.95,79.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,94.05,811.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,90.75,174.75,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,70.2,834.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,85.2,627.4,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,75.25,242.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,75.3,75.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.55,70.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,91.0,1430.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,72.9,818.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,80.55,184.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,75.8,160.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,95.25,1233.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,74.4,527.9,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,86.05,308.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,88.55,179.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,91.3,91.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,79.5,79.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,70.1,467.55,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,86.25,587.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,100.8,100.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,86.3,1180.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,76.45,1233.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,70.5,294.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,70.0,740.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,71.45,371.6,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,95.85,95.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,102.45,102.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,80.1,217.55,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,80.2,146.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,98.15,567.45,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,112.95,1384.75,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.9,70.9,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,86.85,220.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,74.5,74.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,100.15,908.55,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,71.55,71.55,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,85.3,420.45,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,85.65,321.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,106.7,1253.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,90.25,743.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,69.85,199.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,90.6,1020.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,83.05,1258.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,85.05,1391.15,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,70.4,1214.05,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,84.0,424.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,80.35,253.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,82.65,1185.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.15,70.15,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,85.55,85.55,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,105.3,550.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,88.35,88.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,93.0,870.25,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,94.2,777.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,96.25,512.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,70.7,141.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.05,70.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,103.35,847.3,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,81.5,162.55,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,84.8,546.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,74.9,490.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,104.85,1531.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,74.2,1133.9,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,74.45,294.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,89.35,461.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,85.65,659.45,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,77.15,77.15,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,86.05,244.85,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,80.45,1072.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,90.75,512.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,75.7,189.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,74.25,74.25,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,96.4,1581.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.5,69.5,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,91.45,171.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,83.3,803.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,80.1,679.3,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,100.4,715.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,98.15,1230.25,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,69.95,562.7,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,94.6,94.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,105.3,1275.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,76.05,231.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,75.15,525.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.1,70.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.75,69.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,70.3,738.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,80.2,80.2,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,80.55,188.1,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,83.4,83.4,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,70.7,140.7,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,99.25,665.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,84.8,84.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,84.35,1302.65,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,90.75,90.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,89.6,365.65,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,70.05,266.9,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,74.65,301.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,79.65,604.7,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,78.75,412.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,80.45,583.45,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,76.4,151.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,98.7,293.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,100.8,1308.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,79.25,793.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,94.85,462.8,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,85.7,169.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,89.5,477.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,86.05,86.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,95.65,95.65,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,70.15,931.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,92.55,1515.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,74.3,1178.25,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,85.35,758.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,98.1,396.3,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,80.1,336.15,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,74.55,622.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,100.95,329.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,94.9,1048.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,97.1,184.15,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,88.35,262.05,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,74.4,74.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,69.7,560.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,98.1,1060.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,99.6,347.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,94.2,999.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,81.95,81.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,69.35,451.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,84.6,1017.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,91.1,455.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,86.1,1235.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,79.95,1043.4,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,71.0,71.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,79.7,79.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.25,69.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,74.1,450.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,73.5,73.5,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,95.5,829.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,74.55,824.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.9,69.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,83.8,1029.75,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,75.6,661.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,75.45,480.75,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,93.85,635.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,80.3,324.2,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,90.4,268.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,70.25,331.9,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,74.75,144.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,84.45,1059.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,89.15,89.15,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,74.95,1036.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,84.95,1378.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,79.55,79.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,84.5,84.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,85.4,425.9,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,75.75,777.3,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,84.4,556.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,85.55,187.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,77.85,299.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,105.35,323.25,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,95.65,1640.0,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,87.05,762.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,84.8,888.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,74.05,678.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,84.45,1058.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,69.95,1205.5,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,74.3,74.3,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,70.0,1144.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,76.45,1117.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,95.1,180.25,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,76.65,333.6,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,99.15,465.05,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,101.75,1669.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,75.1,1151.55,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,72.75,317.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,94.85,335.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,81.5,1329.2,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,80.55,653.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,93.85,93.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,94.2,1046.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,86.65,856.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,101.8,1752.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,70.55,433.95,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,91.1,964.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,100.85,399.25,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,101.35,1218.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,81.7,81.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,79.15,317.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.1,69.1,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,77.95,305.55,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,80.0,241.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,78.45,78.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,84.45,762.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,75.55,75.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,85.65,338.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.25,70.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,75.35,564.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,89.4,1095.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,83.15,446.05,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,74.15,811.8,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,84.05,186.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,99.5,1056.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,85.45,85.45,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,85.05,999.8,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,83.2,1060.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,75.45,158.4,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,95.1,95.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,75.5,438.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,73.75,325.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,96.05,1148.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.6,70.6,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,88.95,355.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,89.5,863.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.8,69.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,71.3,157.75,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,90.55,90.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,85.2,602.55,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,91.4,449.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,91.5,1400.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,73.25,131.05,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,85.35,754.65,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,75.35,75.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,69.3,153.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,75.25,576.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,84.8,906.85,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,74.6,74.6,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,74.2,140.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,79.15,79.15,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,79.6,79.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,71.05,472.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,89.8,502.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,89.65,1208.35,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,80.5,232.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,75.0,658.1,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,99.45,919.4,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,86.25,181.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,70.1,551.35,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,70.2,115.95,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,100.15,1164.3,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,71.25,71.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,69.7,572.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,88.4,788.6,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,75.1,75.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.1,69.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,75.0,999.45,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,71.15,71.15,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,78.5,874.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,102.0,1145.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.8,70.8,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,89.05,1448.6,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,96.6,291.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,69.8,146.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,84.05,134.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,71.65,135.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,94.25,669.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,68.95,68.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,93.85,196.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,76.05,318.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,89.35,631.85,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,73.6,232.5,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,80.35,307.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,79.05,79.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,95.0,95.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,84.05,966.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,89.8,914.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,69.1,435.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,81.45,912.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,79.85,797.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,71.65,71.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,74.25,210.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,74.2,74.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,94.05,518.75,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,100.2,420.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.85,70.85,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,73.9,280.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,102.55,1742.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,101.55,298.35,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,103.1,970.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,79.8,1001.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,74.95,212.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,74.95,815.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,80.15,80.15,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,78.8,78.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,69.95,143.9,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.1,69.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,93.55,536.4,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,80.85,80.85,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,78.55,149.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,78.65,78.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,74.4,434.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,94.8,1563.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,105.3,545.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,73.85,1284.2,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,84.55,646.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.95,69.95,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,90.7,237.65,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,85.2,695.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,76.5,837.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,92.9,1337.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,93.5,362.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,69.6,131.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,100.55,1415.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,74.8,321.9,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,94.1,701.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,71.0,914.0,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.5,70.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,94.85,953.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,79.55,718.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,95.8,1346.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,78.15,765.15,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.6,69.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,78.05,78.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,73.6,520.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,74.75,706.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,74.0,74.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,82.3,214.4,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,85.45,85.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,89.0,605.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,74.9,469.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,87.95,522.35,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,101.25,1457.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,86.55,1066.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,73.3,828.05,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,79.9,343.95,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,96.2,1222.05,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,85.55,408.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,90.6,90.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,90.05,368.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,75.1,1013.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,70.3,220.4,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,75.85,256.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,68.5,68.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,73.5,791.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.95,69.95,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,94.0,773.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,90.2,1454.15,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,70.2,280.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,88.05,801.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,91.85,257.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,89.8,1129.1,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,79.55,79.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,80.35,1058.1,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,70.15,123.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,89.1,89.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,69.9,497.3,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,94.4,1607.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,76.4,838.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,75.75,606.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,80.3,80.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,74.9,74.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,80.85,751.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,79.7,165.0,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,83.55,477.55,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,94.65,1461.15,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,89.15,1496.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.45,70.45,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,75.65,302.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,90.7,1374.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,80.5,1336.9,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,78.5,242.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,79.9,260.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,98.5,1037.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,100.25,100.25,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,88.45,1422.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.85,69.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,81.7,858.6,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,79.9,324.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.4,69.4,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,74.9,541.15,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.35,70.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,84.3,235.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.1,70.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,78.3,909.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,94.4,1617.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,84.3,84.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,83.2,1130.0,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,99.55,1131.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,81.25,585.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,75.3,720.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,73.75,956.65,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,79.35,661.25,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,79.75,1111.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.35,69.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,85.8,272.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,80.55,80.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,84.5,916.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,92.7,1556.85,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,67.75,116.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,80.05,830.7,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,85.05,85.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,99.95,547.65,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,94.75,422.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,79.65,251.75,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,94.7,740.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,74.05,600.15,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,92.5,452.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,75.55,166.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.0,70.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.7,70.7,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,70.3,144.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,86.2,1270.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,74.9,321.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,74.9,147.15,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,99.85,990.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,94.2,193.8,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,83.85,790.15,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,100.7,1522.7,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,78.95,494.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,74.35,74.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,84.6,959.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,104.1,541.9,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,79.0,929.3,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,94.65,1285.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,76.5,162.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,80.85,302.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,78.95,78.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,79.4,244.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,68.95,351.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,70.05,657.5,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,78.75,426.35,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,71.1,71.1,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,94.0,94.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,89.85,1424.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,105.5,829.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,81.0,1312.15,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.8,69.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,73.75,545.15,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,69.15,488.65,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,93.9,486.85,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,70.4,204.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,70.95,137.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,80.55,1248.9,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,104.4,1081.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,84.05,333.55,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,74.7,74.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,90.8,455.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,79.55,151.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,103.45,1539.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,89.4,1539.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,74.45,1261.35,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,81.0,340.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,91.65,365.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,100.2,198.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,90.85,90.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.4,69.4,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,94.45,742.95,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,93.8,1261.0,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,79.55,958.25,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,75.1,552.95,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,74.35,834.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,95.6,1273.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.3,70.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,69.8,377.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,85.55,851.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,94.5,575.45,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,101.5,906.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,89.15,1057.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,85.35,1375.15,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,79.65,152.7,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,79.6,195.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,79.95,1267.95,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,75.85,724.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,75.35,338.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,75.35,75.35,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,95.7,1451.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,94.7,673.1,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,77.0,237.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,75.3,75.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,106.65,1672.1,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,73.5,632.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.4,70.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,75.65,399.45,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,75.3,1147.45,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,94.0,1078.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,81.9,1028.9,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,80.2,1217.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,72.6,154.3,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,89.25,89.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,86.2,893.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,104.2,1743.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,76.25,684.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,74.35,74.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.65,69.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,80.8,713.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,80.3,526.7,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,84.9,764.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,92.55,1614.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,73.55,145.4,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,96.2,639.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,98.75,1587.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,101.15,842.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,81.15,784.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,79.75,164.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,94.55,1173.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,69.05,318.5,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,90.1,521.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,89.3,577.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,95.2,292.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,74.5,609.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,79.65,79.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,80.05,80.05,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,70.45,849.1,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,90.1,90.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,92.5,934.1,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,88.35,1222.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,74.45,74.45,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,89.35,89.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,84.5,453.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,70.3,235.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,90.8,1442.2,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,74.75,799.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,80.25,144.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,99.45,1200.15,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.6,70.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,81.0,389.6,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,84.85,523.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,94.0,1505.45,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,80.85,1008.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,89.45,853.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,79.9,741.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,84.65,84.65,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.55,69.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,88.85,929.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,79.7,586.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,84.6,84.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,84.85,415.55,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,69.05,651.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,73.65,73.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,84.35,474.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,84.95,668.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,73.85,926.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,79.4,1156.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,71.8,1167.8,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.15,70.15,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,69.2,477.55,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,81.1,81.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,78.85,1043.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,89.45,240.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,97.9,315.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,79.8,973.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,80.2,384.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,83.9,267.4,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.85,69.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,80.5,896.9,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,88.45,370.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,94.85,890.6,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,69.95,529.5,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,70.8,1207.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,75.5,220.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,74.75,229.5,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,74.85,485.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,96.65,1244.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,79.6,79.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,75.9,75.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,76.2,76.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,79.0,522.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.25,70.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,84.6,865.55,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,69.6,207.4,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,86.55,649.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,85.15,503.6,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,74.65,383.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,85.3,1219.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,75.7,75.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,78.1,864.85,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,97.95,384.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,80.5,463.05,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,71.35,71.35,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,89.4,1132.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,81.0,818.05,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,70.15,916.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,96.5,1392.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,91.55,1540.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,70.25,229.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.65,69.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,89.3,89.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,96.3,1426.75,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,85.2,474.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,80.05,1345.65,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,81.3,416.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,85.95,514.6,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,85.45,1451.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,71.0,71.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,85.05,746.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.3,70.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,79.35,79.35,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,90.8,809.75,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,75.4,533.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,70.4,154.8,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,75.8,246.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,76.1,257.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,88.25,1460.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,70.0,153.05,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,70.5,1165.6,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.65,69.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,100.6,1060.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,86.0,86.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,85.0,85.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,78.95,1101.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,89.25,487.05,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,98.0,1237.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,94.45,498.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,105.0,294.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,84.0,613.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,84.85,84.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,80.75,1321.3,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,89.15,413.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,89.75,608.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,85.15,1139.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,79.15,827.7,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,94.6,279.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,94.25,1483.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,74.95,151.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,89.75,552.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,82.85,460.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,83.6,404.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,74.55,233.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,91.5,242.95,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,80.85,866.45,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,94.9,360.55,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.75,70.75,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,76.6,893.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,85.3,781.4,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,87.1,713.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,94.95,178.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,90.6,90.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,86.85,156.35,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.2,70.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,102.25,1359.0,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,78.1,1122.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,71.0,672.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,93.2,1573.7,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,74.35,533.6,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,70.65,293.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,79.25,79.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,70.1,659.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,95.15,997.65,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,80.5,80.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,72.2,305.55,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,80.7,374.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,85.75,470.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,98.25,560.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,69.0,506.9,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,76.4,76.4,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,100.5,514.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.95,69.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,93.3,93.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,74.5,217.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,73.0,73.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,70.65,142.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,99.0,287.4,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,79.45,145.15,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,75.55,413.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,77.65,714.15,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,70.35,139.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,95.85,197.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,73.85,401.3,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,79.15,79.15,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,79.0,303.15,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,75.85,647.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+17,91.85,1574.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,100.35,1358.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,68.6,1108.6,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,74.9,136.05,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,74.85,708.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,101.95,700.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,94.0,181.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,74.3,74.3,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,84.05,1095.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,80.7,788.8,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,101.7,364.55,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,70.1,141.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,69.25,418.4,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,74.4,74.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,90.65,367.95,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,87.75,1242.2,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,95.65,167.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,75.05,786.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,94.4,94.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,69.95,320.4,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,101.45,101.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,97.0,1334.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.5,69.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.2,69.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.65,69.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,82.3,82.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,79.25,267.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,84.6,1115.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,85.85,167.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,95.2,930.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,74.85,156.4,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,79.85,152.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,76.0,1130.85,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,79.75,159.4,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,68.65,68.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,73.8,704.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,100.2,1369.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,74.9,1107.25,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+15,99.7,1566.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,90.1,816.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.85,70.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,69.8,134.7,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,94.1,1215.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,80.1,398.55,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.9,69.9,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,80.8,80.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,76.45,76.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,91.3,1094.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,95.75,573.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+16,78.75,1218.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,74.5,74.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+10,102.1,1068.85,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,74.6,239.05,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,86.5,582.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.15,69.15,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,79.55,723.4,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,91.05,289.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,79.2,172.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,96.55,500.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,74.3,1096.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,100.75,1313.25,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,89.2,990.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,74.1,228.0,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,75.0,209.1,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+2,70.75,154.85,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,96.0,1062.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,85.0,85.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,78.9,299.75,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,69.65,220.1,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,70.15,886.7,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,90.35,434.5,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,74.95,308.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.3,70.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+7,86.8,620.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,84.2,519.15,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,79.7,497.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,99.0,1301.7,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+11,100.75,1129.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,91.75,865.8,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,79.55,79.55,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+14,91.65,1301.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,88.85,372.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,95.45,95.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,91.1,1135.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.7,69.7,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+6,89.5,573.3,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+12,73.75,871.4,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,101.35,780.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,80.7,239.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,89.85,244.45,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,105.9,334.65,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,85.5,791.7,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,74.45,221.1,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,75.15,216.75,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,69.6,69.6,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+5,80.15,385.0,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,82.0,1127.2,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,86.25,770.5,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+9,102.6,897.75,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,74.35,265.35,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+8,95.65,778.1,Month-to-month,Fiber optic,Bank transfer (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+13,80.5,1011.8,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+3,75.05,256.25,Month-to-month,Fiber optic,Credit card (automatic),0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,74.45,74.45,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,70.65,70.65,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+1,75.75,75.75,Month-to-month,Fiber optic,Electronic check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
+4,74.4,306.6,Month-to-month,Fiber optic,Mailed check,0.8563406587077654,High Risk,Offer contract upgrade or retention discount
