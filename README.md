@@ -73,3 +73,20 @@ customer-churn-prediction/
 ├── churn_model.pkl
 ├── churn_preprocessor.pkl
 └── .gitignore
+# Customer Churn Prediction & Retention Analytics
+## 🚀 Live Demo
+
+[Open the Customer Churn Prediction App](https://customer-churn-prediction-gtzwwwpp9oakhug2gzdgjm.streamlit.app/)
+# Customer Churn Prediction & Retention Analytics
+
+## 🚀 Live Demo
+
+[Open the Customer Churn Prediction App](https://customer-churn-prediction-gtzwwwpp9oakhug2gzdgjm.streamlit.app/)
+
+## 📌 Project Overview# Customer Churn Prediction & Retention Analytics
+
+## 🚀 Live Demo
+
+[Open the Customer Churn Prediction App](https://customer-churn-prediction-gtzwwwpp9oakhug2gzdgjm.streamlit.app/)
+
+## 📌 Project Overview
